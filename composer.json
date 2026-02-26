@@ -16,7 +16,7 @@
         "doctrine/dbal": "^2.11 || ^3",
         "doctrine/persistence": "^2 || ^3",
         "blueimp/jquery-file-upload": "9.*",
-        "mapbender/mapbender": "^4"
+        "frwg/mapbender": "dev-master"
     },
     "provide": {
         "mapbender/data-manager": "3.0",
